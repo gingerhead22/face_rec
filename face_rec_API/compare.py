@@ -5,8 +5,8 @@ REF='./ref.jpeg'
 COMP='./comp.jpg'
 
 def register():
-#KEY='ec485be0702142dc9129e2b7619d7e0c'
-	KEY='5a2e555569a84e4483b68d3cad9f1f40'
+
+	KEY=''
 	CF.Key.set(KEY)
 
 def get_img(img_url):
